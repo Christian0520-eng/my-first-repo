@@ -1,0 +1,13 @@
+[1mdiff --git a/TailwindCSS-Tutorial/index.html b/TailwindCSS-Tutorial/index.html[m
+[1mindex bd8c978..5eb6e8f 100644[m
+[1m--- a/TailwindCSS-Tutorial/index.html[m
+[1m+++ b/TailwindCSS-Tutorial/index.html[m
+[36m@@ -4,7 +4,7 @@[m
+     <meta charset="UTF-8" />[m
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />[m
+     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>[m
+[31m-    <title>My first Tailwind CSS</title>[m
+[32m+[m[32m    <title>My First Tailwind CSS</title>[m
+   </head>[m
+   <body>[m
+     <div class="h-screen w-screen flex justify-center items-center">[m
