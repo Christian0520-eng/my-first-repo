@@ -1,6 +1,6 @@
 console.log("This is my First JavaScript code!");
 
-// Types
+//Data Types
 console.log("String", "123");
 console.log("Number", 123);
 console.log("Boolean", true, false);
